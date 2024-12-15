@@ -1,0 +1,8 @@
+#Logs
+*.Logs
+
+#Dependency directories
+# Window finder
+
+.DS_Stroe
+
